@@ -5,3 +5,4 @@ step 2: webdriver-manager update
 step 3: webdriver-manager start
 
 into project. open terminal: protractor conf.js
+
